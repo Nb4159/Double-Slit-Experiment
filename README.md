@@ -1,2 +1,4 @@
 # Double-Slit-Experiment
-This is qiskit code for simulating the famous Double slit experiment on a Quantum Computer.
+This is the qiskit code for the quantum version of the Double Slit experiment i.e. Single particle interference.
+If we send classical particlea through 2 slits, we observe only 2 bright regions corresponding to the 2 slits. On the other hand if a classical wave is sent through,then alternate light and dark bands are obsered. similarly when we send a single photon through 2 slits we find alternate light and dark bands are produced. The problem however arise when we place a detector to test which slit the photon went through and this time we notice that only 2 bright spots are formed as in the first case that of particles. So somehow photons act like a particle as well as a wave, and observation makes the wave act like a particle. This dual behavior is called the Wave Particle Duality.
+But is this because there is something queer about measurement/observation or there is some other reason for this collapse?
